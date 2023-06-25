@@ -3,8 +3,8 @@
 This project focuses on predicting house prices using machine learning techniques. The goal is to develop a model that can accurately estimate the price of a house based on various features such as its size, number of rooms, location, etc.
 
 ## Dataset
-CHICAGO HOUSES DATASET IS USED IN THIS FOLLOWING PROJECT
-The project utilizes a dataset containing information about houses, including features like square footage, number of bedrooms, number of bathrooms, location, and other relevant attributes. The dataset is divided into a training set and a test set to evaluate the performance of the trained model.
+
+The project utilizes a dataset containing information about houses, including features like square footage, number of bedrooms, number of bathrooms, location, and other relevant attributes(In this case Chicago Houses Dataset). The dataset is divided into a training set and a test set to evaluate the performance of the trained model.
 
 ## Model Training
 
